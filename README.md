@@ -18,7 +18,7 @@ Incluye proyectos de análisis de ventas (BI) y visualizaciones temáticas con c
 
 ---
 
-### 2) Mapeo de leucemia entre jóvenes de 0 a 19 años (2010–2020) (Salud + espacial)
+### 2) Mapeo de leucemia entre jóvenes de 0 a 19 años en Puebla y Tlaxcala (2010–2020) (Salud + espacial)
 <img src="docs/img/02_leucemia_0_19_2010_2020.png" width="950">
 
 - **Objetivo:** explorar patrones territoriales y variación temporal en indicadores de salud.
